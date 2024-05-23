@@ -1,5 +1,4 @@
-//Abdullah Bülbül, CENG201
-//Stack example from the course book, uses an arraylist
+
 import java.util.ArrayList;
 
 public class MyStack {
