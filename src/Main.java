@@ -1,5 +1,3 @@
-//Abdullah Bulbul
-//simple test file for quiz 3
 
 public class Main {
 
