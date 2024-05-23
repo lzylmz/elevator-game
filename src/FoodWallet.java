@@ -1,9 +1,4 @@
-//Abdullah Bülbül
-//FoodWallet Class for CENG201 TakeHome Quiz
 
-/**
- * A class to manage your money for food
- */
 public class FoodWallet {
 
     private int foodPrice;
