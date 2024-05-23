@@ -1,4 +1,5 @@
-//Abdullah Bülbül, CENG201
+
+
 public class Student extends Person {
     int studentID;
     public Student(String name, int studentID){
