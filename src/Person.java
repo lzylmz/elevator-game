@@ -1,7 +1,4 @@
-/*
-@author Abdullah Bülbül
-Ceng201 - OOP - Quiz 3
- */
+
 
 public class Person {
 
