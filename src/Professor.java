@@ -1,4 +1,4 @@
-//Abdullah Bülbül, CENG201
+
 public class Professor extends Person {
     int employeeID;
     public Professor(String name, int employeeID){
